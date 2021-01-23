@@ -4,7 +4,7 @@ One bit Code (https://onebitcode.com/course/ruby-puro/)
 - [x] Aula 01
 - [x] Aula 02
 - [x] Aula 03
-- [ ] Aula 04
+- [x] Aula 04
 - [ ] Aula 05
 - [ ] Aula 06
 - [ ] Aula 07
